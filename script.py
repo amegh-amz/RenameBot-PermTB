@@ -7,7 +7,7 @@ class script(object):
     UPGRADE_TEXT = "CONTACT @amzmtaccount"
     DOWNLOAD_START = "Give Me Some Time dude..."
     UPLOAD_START = "Starting to upload..."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @amzmtaccount **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  [DEVIL](http://t.me/amzmtaccount) **"
     SAVED_THUMB = "Thumbnail Saved succesfully ✅ "
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
