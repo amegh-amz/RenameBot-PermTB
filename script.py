@@ -1,5 +1,5 @@
 class script(object):
-    START_TEXT = """Hey there, I'am a Simple File Renamer Bot With Permanent Thumbnail support! <u><b>Created by DEVIL.</b></u>💯
+    START_TEXT = """Hey there, I'am a Simple File Renamer Bot With Permanent Thumbnail support💯! <u><b>Created by DEVIL.</b></u><br>
 
 <b>Send me any Telegram file and choose appropriate option! </b>
 
