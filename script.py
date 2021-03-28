@@ -1,8 +1,9 @@
 class script(object):
     START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
 
-<b>Send me any Telegram file and choose appropriate option! Created by [DEVIL](http://t.me/amzmtaccount).</b>
-Hit /help for more detail<br>"""
+<b>Send me any Telegram file and choose appropriate option! Created by DEVIL.</b>
+
+<b>Hit /help for more detail</b><br>"""
     
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT [DEVIL](http://t.me/amzmtaccount)"
