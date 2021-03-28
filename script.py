@@ -1,5 +1,5 @@
 class script(object):
-    START_TEXT = """Hey [{}](tg://user?id={}), I'am a Simple File Renamer Bot With Permanent Thumbnail support! <u><b>Created by DEVIL.</b></u>💯
+    START_TEXT = """Hey there, I'am a Simple File Renamer Bot With Permanent Thumbnail support! <u><b>Created by DEVIL.</b></u>💯
 
 <b>Send me any Telegram file and choose appropriate option! </b>
 
@@ -9,7 +9,7 @@ class script(object):
     UPGRADE_TEXT = "CONTACT [DEVIL](http://t.me/amzmtaccount)"
     DOWNLOAD_START = "Give Me Some Time dude..."
     UPLOAD_START = "Starting to upload..."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  [DEVIL](http://t.me/amzmtaccount) **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  [DEVIL](https://t.me/amzmtaccount) **"
     SAVED_THUMB = "Thumbnail Saved succesfully ✅ "
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
