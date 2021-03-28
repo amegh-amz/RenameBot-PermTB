@@ -1,7 +1,7 @@
 class script(object):
-    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
+    START_TEXT = """Hey [{}](tg://user?id={}), I'am a Simple File Renamer Bot With Permanent Thumbnail support! <u><b>Created by DEVIL.</b></u>💯
 
-<b>Send me any Telegram file and choose appropriate option! Created by DEVIL.</b>
+<b>Send me any Telegram file and choose appropriate option! </b>
 
 <b>Hit /help for more detail</b><br>"""
     
