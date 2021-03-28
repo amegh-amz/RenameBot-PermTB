@@ -3,7 +3,7 @@ class script(object):
 
 <b>Send me any Telegram file and choose appropriate option! </b>
 
- <b>Created by [DEVIL](http://t.me/amzmtaccount)  </b>"""
+ <b>Created by [DEVIL](http://t.me/amzmtaccount)</b>"""
     
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT [DEVIL](http://t.me/amzmtaccount)"
