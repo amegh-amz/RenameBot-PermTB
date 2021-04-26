@@ -21,15 +21,15 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2207333"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "bc9f06a7258ae2049b426a46c0f27174"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "1167010511 1666422511"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
