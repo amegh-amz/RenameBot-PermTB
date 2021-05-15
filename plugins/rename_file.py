@@ -181,7 +181,7 @@ async def rename_doc(bot, message):
     else:
         await bot.send_message(
             chat_id=message.chat.id,
-            text="You're B A N N E D",
+            text="You cannot use Me now",
             reply_to_message_id=message.message_id
         )
 
